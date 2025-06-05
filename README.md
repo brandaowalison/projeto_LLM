@@ -1,6 +1,6 @@
 # Mundo Conectado - Assistente Virtual de Tecnologia
 
-Este projeto é uma API Node.js que utiliza o modelo GPT da OpenAI para criar um assistente virtual chamado **Mundo Conectado**, especializado em responder dúvidas sobre tecnologia de forma simples e prática.
+Atividade proposta pelo professor de Mobile. Este projeto é uma API Node.js que utiliza o modelo GPT da OpenAI para criar um assistente virtual chamado **Mundo Conectado**, especializado em responder dúvidas sobre tecnologia de forma simples e prática.
 
 ## Funcionalidades
 
